@@ -17,6 +17,7 @@ list_of_files = [
     "static/.gitkeep",
     "templates/chat.html",
     "model/information.txt",
+    'data/empty.pdf',
     'requirements.txt'
 
 ]
