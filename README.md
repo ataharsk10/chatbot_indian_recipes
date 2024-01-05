@@ -1,5 +1,6 @@
 # chatbot_indian_recipes
-A simple chatbot using Llama 2 - Meta AI for nutrient rich indian recipes.
+A simple chatbot using Llama 2 - Meta AI for nutrients rich Indian recipes.
+Requirements: Python,Llama,Langchain,Huggingface,Pinecone,Flask
 
 ### STEPS:
 
